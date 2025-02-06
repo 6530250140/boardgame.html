@@ -1,0 +1,93 @@
+Standards
+
+
+-isc2
+Standards
+
+Specific mandates explicitly stating expectations of performance or conformance.
+-----------------
+
+chatChatGPT มาตรฐาน
+"ข้อกำหนดเฉพาะที่ระบุอย่างชัดเจนถึงความคาดหวังในด้านประสิทธิภาพหรือการปฏิบัติตาม"
+
+--------------
+gemini
+
+Standards: มาตรฐานเฉพาะที่ระบุไว้อย่างชัดเจนถึงความคาดหวังด้านประสิทธิภาพหรือการปฏิบัติตาม
+
+
+
+Standards:
+Specifications or styles that are widely accepted by users and adopted by several vendors. Standards are critical to the compatibility of hardware, software, and everything in between. Industry standards enable the essential elements of a computer and related infrastructure to work together. Standards provide specifications to hardware manufacturers and software developers that allow them to create products that will work together. Deviation from standards could result in the following problems:
+• A plug on a keyboard does not fit into the related outlet on a computer.
+• A piece of software does not work with a particular operating system.
+• An Internet browser cannot read a certain page on the Web because the page is not formatted according the browser requirements.
+• Proprietary software does not work on the Internet.
+
+
+------------------
+2nd source
+
+
+
+**Standards**  
+**"Specifications or styles that are widely accepted by users and adopted by several vendors. Standards are critical to the compatibility of hardware, software, and everything in between. Industry standards enable the essential elements of a computer and related infrastructure to work together. Standards provide specifications to hardware manufacturers and software developers that allow them to create products that will work together. Deviation from standards could result in the following problems:**  
+• **A plug on a keyboard does not fit into the related outlet on a computer.**  
+• **A piece of software does not work with a particular operating system.**  
+• **An Internet browser cannot read a certain page on the Web because the page is not formatted according to the browser requirements.**  
+• **Proprietary software does not work on the Internet."**
+
+มาตรฐาน
+**"ข้อกำหนดหรือรูปแบบที่ผู้ใช้งานยอมรับอย่างแพร่หลายและได้รับการนำไปใช้โดยผู้จำหน่ายหลายราย มาตรฐานมีความสำคัญต่อความเข้ากันได้ของฮาร์ดแวร์ ซอฟต์แวร์ และทุกสิ่งที่เกี่ยวข้อง มาตรฐานในอุตสาหกรรมช่วยให้ส่วนประกอบสำคัญของคอมพิวเตอร์และโครงสร้างพื้นฐานที่เกี่ยวข้องทำงานร่วมกันได้ มาตรฐานให้ข้อกำหนดแก่ผู้ผลิตฮาร์ดแวร์และนักพัฒนาซอฟต์แวร์ เพื่อให้พวกเขาสามารถสร้างผลิตภัณฑ์ที่ทำงานร่วมกันได้ การเบี่ยงเบนจากมาตรฐานอาจนำไปสู่ปัญหาดังต่อไปนี้:**  
+• **ปลั๊กของคีย์บอร์ดไม่พอดีกับช่องเสียบที่เกี่ยวข้องบนคอมพิวเตอร์**  
+• **ซอฟต์แวร์บางตัวไม่สามารถทำงานร่วมกับระบบปฏิบัติการเฉพาะได้**  
+• **เบราว์เซอร์อินเทอร์เน็ตไม่สามารถอ่านหน้าเว็บบางหน้าได้ เนื่องจากหน้าเว็บนั้นไม่ได้ถูกจัดรูปแบบตามข้อกำหนดของเบราว์เซอร์**  
+• **ซอฟต์แวร์เฉพาะทางไม่สามารถทำงานบนอินเทอร์เน็ตได้"**
+
+
+มาตรฐาน
+
+ข้อกำหนดหรือรูปแบบที่ได้รับการยอมรับอย่างกว้างขวางจากผู้ใช้และถูกนำมาใช้โดยผู้ผลิตหลายราย มาตรฐานมีความสำคัญต่อความเข้ากันได้ของฮาร์ดแวร์ ซอฟต์แวร์ และทุกอย่างที่เกี่ยวข้อง มาตรฐานอุตสาหกรรมช่วยให้ส่วนประกอบสำคัญของคอมพิวเตอร์และโครงสร้างพื้นฐานที่เกี่ยวข้องสามารถทำงานร่วมกันได้ มาตรฐานกำหนดข้อกำหนดให้กับผู้ผลิตฮาร์ดแวร์และนักพัฒนาซอฟต์แวร์ ซึ่งช่วยให้พวกเขาสามารถสร้างผลิตภัณฑ์ที่สามารถทำงานร่วมกันได้ การเบี่ยงเบนจากมาตรฐานอาจส่งผลให้เกิดปัญหาต่อไปนี้:
+
+ปลั๊กของคีย์บอร์ดไม่พอดีกับช่องเสียบที่เกี่ยวข้องบนคอมพิวเตอร์
+ซอฟต์แวร์บางอย่างไม่ทำงานกับระบบปฏิบัติการบางอย่าง
+เว็บเบราว์เซอร์ไม่สามารถอ่านหน้าเว็บบางหน้าได้ เนื่องจากหน้าเว็บไม่ได้จัดรูปแบบตามข้อกำหนดของเบราว์เซอร์
+ซอฟต์แวร์เฉพาะเจาะจงไม่สามารถทำงานบนอินเทอร์เน็ต
+
+------------------
+สรุปด้วยตนเอง :
+
+
+------------------
+sample in dailiy life
+ตัวอย่าง 1
+ภาษาไทย:
+"ก่อนซื้อคีย์บอร์ด ต้องเช็กว่าปลั๊กตรงกับช่องเสียบของคอมพิวเตอร์หรือไม่ เพราะถ้าไม่เป็นไปตามมาตรฐานจะใช้ไม่ได้"
+ภาษาอังกฤษ:
+"Before buying a keyboard, make sure the plug fits the computer's port, as deviation from standards will make it unusable."
+
+ตัวอย่าง 2
+ภาษาไทย:
+"หน้าเว็บนี้แสดงผลแปลก ๆ อาจเป็นเพราะไม่ได้จัดรูปแบบตามมาตรฐานที่เบราว์เซอร์กำหนด"
+ภาษาอังกฤษ:
+"This webpage displays oddly, probably because it’s not formatted according to the browser's standards."
+
+ตัวอย่าง 3
+ภาษาไทย:
+"ถ้าซอฟต์แวร์ที่เราใช้ไม่รองรับระบบปฏิบัติการล่าสุด แปลว่าซอฟต์แวร์นั้นไม่ได้พัฒนาให้เป็นไปตามมาตรฐานสากล"
+ภาษาอังกฤษ:
+"If the software we use doesn’t support the latest operating system, it means it wasn’t developed to meet international standards."
+
+ตัวอย่าง 4
+ภาษาไทย:
+"บริษัทผู้ผลิตฮาร์ดแวร์ต้องปฏิบัติตามมาตรฐานที่กำหนด เพื่อให้ผลิตภัณฑ์สามารถใช้งานร่วมกับผลิตภัณฑ์อื่นได้"
+ภาษาอังกฤษ:
+"Hardware manufacturers must adhere to established standards to ensure their products are compatible with others."
+
+ตัวอย่าง 5
+ภาษาไทย:
+"การใช้ซอฟต์แวร์เฉพาะทางบนอินเทอร์เน็ตมักมีปัญหา หากไม่ได้ออกแบบตามมาตรฐานที่ใช้กันทั่วไป"
+ภาษาอังกฤษ:
+"Using proprietary software on the internet often leads to issues if it’s not designed according to commonly used standards."
+
+
